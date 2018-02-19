@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalendarView</string>
+    <string name="right">RIGHT</string>
+    <string name="left">LEFT</string>
+    <string name="field">FIELD</string>
+    <string name="selected">SELECTED</string>
+    <string name="_int_text">%d</string>
+    <string name="month">Month</string>
+</resources>

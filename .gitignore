@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea
+.DS_Store
+/build
+apps/build
+CalendarView/build
+/captures
+.externalNativeBuild
+/LoomCalendar.iml
